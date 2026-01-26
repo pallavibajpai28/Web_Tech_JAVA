@@ -34,7 +34,7 @@ class UpperORLowerVC {
                     System.out.println(ch + " is not an alphabet character.");
                 }
               
-        }
-    }
-}
+          }
+      }
+   }
 }
