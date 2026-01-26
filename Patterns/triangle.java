@@ -4,6 +4,7 @@
 // * * *
 // * * * *
 // * * * * *
+
 // way1
 class triangle {
     public static void main(String[] args) throws Exception {
@@ -40,6 +41,9 @@ class triangle1 {
     
 }
 
+
+
+
 // Print Pattern upper triangle
 // * * * * *
 // * * * * 
@@ -47,6 +51,7 @@ class triangle1 {
 // * * 
 // * 
 
+// way1
 class triangle2 {
     public static void main(String[] args) {
         int num = 5;
@@ -60,6 +65,8 @@ class triangle2 {
         }
     }
 }
+
+
 
 // way2
 
@@ -84,13 +91,14 @@ class triangle2_1{
 
 
 
+
+
 //mirror triangle of 1st triangle
 //         * 
 //       * * 
 //     * * * 
 //   * * * * 
 // * * * * * 
-
 class triangle3 {
     public static void main(String[] args) throws Exception {
         int num = 5; // num of the window pattern
@@ -110,13 +118,14 @@ class triangle3 {
 }
 
 
-// 
+
+
+// Print
 // * * * * * 
 //   * * * * 
 //     * * * 
 //       * * 
 //         * 
-
 class triangle4 {
     public static void main(String[] args) throws Exception {
         int num = 5; // num of the window pattern
@@ -136,13 +145,13 @@ class triangle4 {
 }
 
 
+
 // print triangle4 but number
 //  1 1 1 1 1
 //    2 2 2 2
 //      3 3 3
 //        4 4
 //          5
-
 class triangle4Num {
     public static void main(String[] args)  {
         int num = 5; 
@@ -159,6 +168,8 @@ class triangle4Num {
     }
     
 }
+
+
 
 // print 1st triangle but instead of star print alphabet
 // A         
@@ -183,6 +194,9 @@ class triangleAlpha {
     }
     
 }
+
+
+
 
 // print 1st triangle but instead of star print alphabet
 // A         
