@@ -74,7 +74,7 @@ public static void div()
     int b = s.nextInt();
 
     System.out.println("The division result is : " +(a/b));
-}
+  }
 }
 
 
