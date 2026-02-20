@@ -2,7 +2,7 @@ import java.util.Scanner;
 class vORcORdORs {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter a single alphabet character: ");
+        System.out.print("Enter a single alphabet character: ");  
         char ch = sc.next().charAt(0);
 
         if( ch>='A' && ch<='Z' || ch>='a' && ch<='z' ) 
