@@ -7,7 +7,7 @@ class VowelORConsonent {
 
         switch (ch) {
             case 'a', 'e', 'i', 'o', 'u',
-                 'A', 'E', 'I', 'O', 'U':
+                 'A', 'E', 'I', 'O', 'U':    
                  {
                     System.out.println(ch + " is a Vowel.");
                     break;
