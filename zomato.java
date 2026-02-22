@@ -3,7 +3,7 @@ import java.util.Random;
 class zomato {
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);  
         Random r = new Random();
         int num = r.nextInt(9999);
 
