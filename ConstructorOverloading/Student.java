@@ -51,7 +51,7 @@ public class Student {
         this.year=year;
         this.bg=bg;
     }
-
+   
 
 // non-static method to display details.
 public void printDetails()
@@ -67,3 +67,4 @@ public void printDetails()
     System.out.println("==========================================");
     }
 }
+
