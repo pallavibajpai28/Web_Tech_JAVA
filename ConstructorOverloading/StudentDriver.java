@@ -15,7 +15,7 @@ public class StudentDriver {
         Student s3 = new Student("Anmol", 24, "Male", 4, 80000, "AI/ML"); //bloodgroup unknown.
         System.out.println(s3);
         s3.printDetails();
-
+  
         Student s4 = new Student("Harshit", 20, "Male", 1, "AB+ve");   //fees and stream unknown.
         System.out.println(s4);
         s4.printDetails();
@@ -25,3 +25,4 @@ public class StudentDriver {
         s5.printDetails();
     }
 }
+
