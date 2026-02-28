@@ -15,7 +15,7 @@ public class window {
                 } else {
                     System.out.print("  ");
                 }
-            }
+            }  
             System.out.println();
         }
     }
