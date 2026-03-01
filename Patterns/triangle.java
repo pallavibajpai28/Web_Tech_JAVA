@@ -14,7 +14,7 @@ class triangle {
                 if (i >= j) { // explaination : i>=j is for filling the left triangle
                     System.out.print("* ");
                 } else {
-                    System.out.print("  ");
+                    System.out.print("  ");  
                 }
                 Thread.sleep(100); // Adding a small delay for better visualization
             }
