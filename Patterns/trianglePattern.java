@@ -1,4 +1,4 @@
-//Print :
+ //Print :
 //         *   for num=5   for triangle patterns just make the box, look at coordinates (do add, subs, compare) and find the pattern logic where and where not to print the staers
 //       * * *
 //     * * * * *
@@ -27,7 +27,7 @@
 
 //Print :
 // * * * * * * * * * * * for num=6
-//   * * * * * * * * *
+//   * * * * * * * * * 
 //     * * * * * * *
 //       * * * * *
 //         * * *
