@@ -4,7 +4,7 @@ public class Student {
     static String clgname = "Saraswati";
     String sname;
     int age;
-    String gender;
+    String gender;  
     int year;
     String bg;
     double fees; 
@@ -67,3 +67,4 @@ public void printDetails()
     System.out.println("==========================================");
     }
 }
+
