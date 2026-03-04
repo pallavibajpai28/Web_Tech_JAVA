@@ -7,7 +7,7 @@ class UpperORLowerVC {
         char ch= sc.next().charAt(0);
 
         switch (ch) {
-            case 'A', 'E', 'I', 'O', 'U':
+            case 'A', 'E', 'I', 'O', 'U' :
             {
                 System.out.println(ch + " is an Uppercase Vowel.");
                 break;
