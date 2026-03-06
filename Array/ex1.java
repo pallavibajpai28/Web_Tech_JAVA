@@ -10,7 +10,7 @@ public class ex1 {
         arr[2] = 29;
         arr[3] = 37;
         arr[4] = 50;
-        arr[5] = 69;
+        arr[5] = 69;   
         arr[6] = 74;
 
         System.out.println(arr);
@@ -25,4 +25,5 @@ public class ex1 {
 
     }
 }
+
 
