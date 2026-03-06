@@ -6,7 +6,7 @@ public class evenElements {
         int[] arr = new int[7];
 
         arr[0] = 10;
-        arr[1] = 20;
+        arr[1] = 20; 
         arr[2] = 25;
         arr[3] = 33;
         arr[4] = 50;
@@ -25,4 +25,5 @@ public class evenElements {
 
     }
 }
+
 
