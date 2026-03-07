@@ -12,7 +12,7 @@ public class ex2 {
         {
          arr[i] = s.nextInt();
         }
-
+  
         System.out.println("The length of the array is " +arr.length);
 
         //Accessing the elements usning for loop
@@ -28,4 +28,5 @@ public class ex2 {
 
         
 }
+
 
