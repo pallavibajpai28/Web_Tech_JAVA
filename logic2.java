@@ -2,7 +2,7 @@
 
 
 package SwappingNumbers;
-
+        
 import java.util.Scanner;
 
 public class logic2 {
@@ -31,6 +31,7 @@ public class logic2 {
 
     }
 }
+
 
 
 
