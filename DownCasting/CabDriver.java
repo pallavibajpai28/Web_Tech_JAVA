@@ -14,7 +14,7 @@ public static void main(String[] args)
 	 
 	Cab c = null;
 	
-	switch(choice)
+	switch(choice) //using "switch" to create object and perform downcasting of only which cab is choosen by the customer
 	{
 	case 1 ->
 	{
