@@ -8,14 +8,14 @@ public class ex3  {
         int[] arr = new int[size];
 
         //storing elements using for loop 
-        System.out.println("Enter "+arr.length+ " Elements in an array");
+        System.out.println("Enter "+arr.length+ " Elements in an array");  //arr.length is a variable and not method in Array.
         for(int i=0; i<arr.length; i++)
         {
          arr[i] = s.nextInt();
         }
         
        
-        int sum = 0;
+        int sum = 0;  
         for(int i=0; i<arr.length; i++)
         {
             sum = sum + arr[i];
