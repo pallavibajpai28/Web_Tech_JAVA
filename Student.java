@@ -11,7 +11,7 @@ public class Student {
     String stream;
 
 // 1st Constructor - when we dont have student details but we have to create object.
-    Student()             
+    Student()              
     {
         System.out.println(this);
     }
