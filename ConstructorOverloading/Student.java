@@ -1,7 +1,7 @@
 package ConstructorOverloading;
 
 public class Student {
-    static String clgname = "Saraswati";
+    static String clgname = "IISc Banglore";
     String sname;
     int age;
     String gender;
