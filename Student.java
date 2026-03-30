@@ -8,7 +8,7 @@ public class Student {
     int year;
     String bg;
     double fees; 
-    String stream;
+    String stream;  
 
 // 1st Constructor - when we dont have student details but we have to create object.
     Student()              
