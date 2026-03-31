@@ -11,7 +11,7 @@ public class Sedan extends Cab{
 		super(CabDriverName, CabNo, DriverNo);
 		this.seats = seats;
 		this.fare = fare;
-		this.rating = rating; 
+		this.rating = rating;  
 		this.carType = carType;	
 	}
 	
