@@ -12,7 +12,7 @@ public class Suv extends Cab{
 		this.seats = seats;
 		this.fare = fare;
 		this.rating = rating; 
-		this.carType = carType;	
+		this.carType = carType;	 
 	}
 	
 	void printDetails()
