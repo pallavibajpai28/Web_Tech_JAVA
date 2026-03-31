@@ -14,7 +14,7 @@ public class Mini extends Cab{
 		this.fare = fare;
 		this.rating = rating; 
 		this.carType = carType;	
-	}
+	} 
 	
 	void printDetails()
 	{
