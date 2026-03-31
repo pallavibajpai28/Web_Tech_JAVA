@@ -11,7 +11,7 @@ public static void main(String[] args)
 	
 	Scanner sc = new Scanner(System.in);
 	int choice = sc.nextInt();
-	 
+	   
 	Cab c = null;
 	
 	switch(choice) //using "switch" to create object and perform downcasting of only which cab is choosen by the customer
