@@ -9,7 +9,7 @@ public class Cab {
 	int CabNo;
 	int DriverNo;
 	
-	Cab(String CabDriverName,int CabNo,int DriverNo) //Constructor
+	Cab(String CabDriverName,int CabNo,int DriverNo) //Constructor 
 	{
 	this.CabDriverName = CabDriverName;
 	this.CabNo = CabNo;
