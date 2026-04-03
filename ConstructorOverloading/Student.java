@@ -4,7 +4,7 @@ public class Student {
     static String clgname = "IISc Banglore";
     String sname;
     int age;
-    String gender;
+    String gender;  
     int year;
     String bg;
     double fees; 
