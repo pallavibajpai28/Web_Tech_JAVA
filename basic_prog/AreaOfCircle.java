@@ -5,3 +5,4 @@ public class AreaOfCircle {
     System.out.println("Area of Circle is: "+area);
     }
 }
+ 
