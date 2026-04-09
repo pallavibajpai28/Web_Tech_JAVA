@@ -1,3 +1,4 @@
+//WAJP to find out sum of digit
 public class Count
 {
     public static void main(String [] args)
@@ -12,4 +13,3 @@ public class Count
         System.out.println(count);
     }
 }
-//WAJP to find out sum of digit
