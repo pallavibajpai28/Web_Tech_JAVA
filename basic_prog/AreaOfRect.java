@@ -8,7 +8,7 @@ public class AreaOfRect {
         System.out.print("Enter breadth of rectangle: ");
         double breadth = sc.nextDouble();
         double area = getArea(length, breadth);
-        System.out.println("Area of rectangle is: " + area);
+        System.out.println("Area of rectangle is: " + area);  
     }
     public static double getArea(double length, double breadth) {
         return length * breadth;
