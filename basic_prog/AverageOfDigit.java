@@ -15,7 +15,7 @@ class AverageOfDigit
             sum+=lastdigit;
             num/=10;
             count++;
-         }
+         } 
         //! average=sum/count;--> average is wrong
         System.out.println((double)sum/count); /// Best approach
    
