@@ -8,7 +8,7 @@ class FindLargestDigit
         while(num>0)
         {
             int lastdigit=num%10;
-            if(lastdigit>largedigit)
+            if(lastdigit>largedigit)  
             {
                 largedigit=lastdigit;
             }
