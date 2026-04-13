@@ -1,4 +1,4 @@
-class FindLargestDigit
+class FindLargestDigit 
 {
     public static void main(String [] args)
     {
