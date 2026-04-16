@@ -7,7 +7,7 @@ class FindSmallestDigit
         int smallerdigit=num%10;
         while(num>0)
         {
-            int lastdigit=num%10;
+            int lastdigit=num%10; 
             if(lastdigit<smallerdigit)
             {
                 smallerdigit=lastdigit;
