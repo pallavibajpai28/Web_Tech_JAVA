@@ -15,7 +15,7 @@ public class Palindrome {
 
         if(rev==original)
             return true;
-        else
+        else    
             return false;
     }
 
