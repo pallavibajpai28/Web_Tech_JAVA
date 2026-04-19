@@ -6,7 +6,7 @@ public class Palindrome {
         int rev=0;
         int original=n;
 
-        while(n>0)    
+        while(n>0)      
         {
             int digit = n % 10;  //fetch last digit
             rev = rev *10 + digit; //store last digit in reverse
