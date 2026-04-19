@@ -2,7 +2,7 @@
 import java.util.*;
 public class Palindrome {
     public static boolean isPalindrome(int n)
-    {
+    {  
         int rev=0;
         int original=n;
 
